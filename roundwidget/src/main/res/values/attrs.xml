@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LCRoundWidget">
+        <attr format="dimension" name="rw_radius"/>
+        <attr format="boolean" name="rw_is_circle"/>
+    </declare-styleable>
+</resources>
